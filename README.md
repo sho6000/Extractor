@@ -54,10 +54,10 @@ streamlit run main_script.py
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/1.jpg)
 *Caption for Screenshot 1.*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/2.png)
 *Caption for Screenshot 2.*
 
 ## License
