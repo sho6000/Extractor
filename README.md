@@ -56,7 +56,7 @@ streamlit run main_script.py
 
 ![Screenshot 1](https://github.com/sho6000/Extractor/blob/main/screenshots/1.jpg)
 
-![Screenshot 2](https://github.com/sho6000/Extractor/blob/main/screenshots/2.jpg)
+![Screenshot 2](https://github.com/sho6000/Extractor/blob/main/screenshots/2.png)
 
 ## License
 
