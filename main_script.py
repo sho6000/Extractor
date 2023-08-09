@@ -8,11 +8,13 @@ import os
 import numpy as np
 
 
+# Set the title of the tab
+st.set_page_config(page_title="Extraction Application")
 
 # Custom CSS style
 cus_css = """
     body {
-        color: #333;
+        color: white; /* Change the text color to white */
         font-family: Arial, sans-serif;
         background-color: #f2f2f2;
         background-color: #f2f2f2;
