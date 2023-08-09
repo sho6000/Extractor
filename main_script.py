@@ -5,7 +5,6 @@ from azure_ocr import GetTextRead
 from azure_translator import translate_text
 from dotenv import load_dotenv
 import os
-import cv2
 import numpy as np
 
 
