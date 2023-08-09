@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'extractor7000'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DFBF37F0296E4CAAACD4C255E24DDA01 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C7FFA18A00EC46D3B8940C7683630DBD }}
