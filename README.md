@@ -11,6 +11,11 @@
 - User-friendly interface for easy image upload and webcam capture.
 - Seamless integration with Streamlit for interactive usage.
 
+## Project Details
+
+- [Project Demo Link Here](https://extractor2000.azurewebsites.net/)
+- [Project Video Tutorial Link](paste_link_here)
+
 ## Azure Service
 
 This project utilizes the following Azure Cognitive Services:
