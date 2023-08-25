@@ -13,8 +13,8 @@
 
 ## Project Details
 
-- [Project Demo Link Here](https://extractor2000.azurewebsites.net/)
-- [Project Video Tutorial Link](paste_link_here)
+- [Project Demo Link Here](https://extractor9000.azurewebsites.net/)
+- [Project Video Tutorial Link](https://youtu.be/8e5KH-evehA?si=MgMF7nG8-wq4PX1n)
 
 ## Azure Service
 
