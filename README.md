@@ -16,11 +16,11 @@
 
 ## Azure Services Used
 
-This project utilizes the following Azure Cognitive Services:
+This project utilizes the following Azure Services:
 
-- **Computer Vision OCR API**: To perform optical character recognition and extract text from images or documents.
-- **Translator API**: To provide translation services for the extracted text to multiple languages.
-- **App Services**: To host the streamlit on azure portal.
+- **Azure Computer Vision**: To perform optical character recognition and extract text from images or documents.
+- **Azure Translator API**: To provide translation services for the extracted text to multiple languages.
+- **Azure App Services**: To host the streamlit on Azure portal.
 
 ## Python Package
 
