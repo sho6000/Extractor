@@ -1,8 +1,6 @@
 # Extractor
 ## Using OCR and Translator
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/your-repo/blob/main/LICENSE)
-
 ## Features
 
 - Extract text from images or documents using Azure Cognitive Services OCR.
@@ -62,9 +60,4 @@ streamlit run main_script.py
 ![Screenshot 1](https://github.com/sho6000/Extractor/blob/main/screenshots/1.jpg)
 
 ![Screenshot 2](https://github.com/sho6000/Extractor/blob/main/screenshots/2.png)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
