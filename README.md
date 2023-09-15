@@ -14,7 +14,7 @@
 - [Project Demo Link Here](https://extractor9000.azurewebsites.net/)
 - [Project Video Tutorial Link](https://youtu.be/8e5KH-evehA?si=MgMF7nG8-wq4PX1n)
 
-## Azure Service
+## Azure Services Used
 
 This project utilizes the following Azure Cognitive Services:
 
