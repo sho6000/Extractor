@@ -16,11 +16,17 @@
 
 ## Azure Services Used
 
-This project utilizes the following Azure Services:
+&rarr;This project utilizes a total of **three Azure Technologies** which are 
+- Azure AI Services | Computer Vision
+- Azure AI Services | Translator
+- Azure App Service
 
-- **Azure Computer Vision**: To perform optical character recognition and extract text from images or documents.
-- **Azure Translator API**: To provide translation services for the extracted text to multiple languages.
-- **Azure App Services**: To host the streamlit on Azure portal.
+
+&rarr;Brief Description on the Services Used:
+* **Azure AI Services**: Used to do basic operations of the application such as scanning and linguistics.
+  * **Azure AI Translator**: To provide translation services for the extracted text to multiple languages.
+  * **Azure Computer Vision**: To perform optical character recognition and extract text from images or documents.
+* **Azure App Service**: To host the streamlit on Azure portal.
 
 ## Python Package
 
