@@ -1,5 +1,4 @@
 # Extractor
-## Using OCR and Translator
 
 ## Features
 
@@ -81,7 +80,7 @@ streamlit run main_script.py
 
 ## Screenshots
 
-![1](https://github.com/sho6000/Extractor/assets/57789899/d25146ad-118b-4576-b084-36058549648d)
+![Screenshot 2023-10-20 012629](https://github.com/sho6000/sho6000/assets/57789899/bb8624b5-a4b6-4300-9e5a-bcba3bb02adf)
 
 ![2](https://github.com/sho6000/Extractor/assets/57789899/7e4095a0-0e8f-42d1-bffc-56896df64df6)
 ---
