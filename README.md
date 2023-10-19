@@ -63,7 +63,7 @@ streamlit run main_script.py
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/sho6000/Extractor/blob/main/screenshots/1.jpg)
+![1](https://github.com/sho6000/Extractor/assets/57789899/d25146ad-118b-4576-b084-36058549648d)
 
-![Screenshot 2](https://github.com/sho6000/Extractor/blob/main/screenshots/2.png)
+![2](https://github.com/sho6000/Extractor/assets/57789899/7e4095a0-0e8f-42d1-bffc-56896df64df6)
 ---
