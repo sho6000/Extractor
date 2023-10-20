@@ -2,10 +2,10 @@
 
 ## Features
 
-- Extract text from images or documents using Azure Cognitive Services OCR.
-- Translate extracted text to multiple languages with the Azure Translator.
+- Extract text from images or documents using Azure AI Computer Vision.
+- Translate extracted English text to multiple languages with the Azure AI Translator.
 - Supports various image formats, including JPEG, PNG, and PDF.
-- User-friendly interface for easy image upload and webcam capture.
+- User-friendly interface for easy image upload and documents.
 - Seamless integration with Streamlit for interactive usage.
 
 ## Project Details
@@ -21,13 +21,13 @@
 - Azure App Service
 
 &rarr;Brief Description on the Services Used:
-* **Azure AI Services**: Used to do basic operations of the application such as scanning and linguistics.
+* **Azure AI Services**
   * **Azure AI Translator**: To provide translation services for the extracted text to multiple languages.
-  * **Azure Computer Vision**: To perform optical character recognition and extract text from images or documents.
+  * **Azure Computer Vision**: To perform optical character recognition(OCR) and extract text from images or documents.
 * **Azure App Service**: To host the streamlit on Azure portal.
 
 ![Screenshot 2023-10-20 004332](https://github.com/sho6000/Extractor/assets/57789899/88af003a-6551-4bd5-ae04-b6523e8f55a3)
-
+---
 ### Azure AI Services | Computer Vision
 - In this project, this service is employed to perform character extraction on images(PNG, JPEG). It can effortlessly extract text from the mentioned and even PDF files. With its robust capabilities, it's an essential component for extracting text from scanned documents or images and making it available for further processing within your application.
 - It takes in any type of document or images written in English and is sent to the service to extract data from it
@@ -45,7 +45,7 @@
 ![Screenshot 2023-10-20 004839](https://github.com/sho6000/Extractor/assets/57789899/1dc11a05-88ed-404a-8a00-5e5d07c5c861)
 ![Screenshot 2023-10-20 004646](https://github.com/sho6000/Extractor/assets/57789899/aeae7727-2bf6-4c09-a95a-f09c70abdb20)
 
-
+---
 ### Azure AI Services | Translator
 - This Azure Service plays a crucial role in making the application multilingual and accessible to a global audience. This service is used to translate the extracted English text into multiple languages. It enables the application to break language barriers, providing seamless communication and understanding for users regardless of their language preferences. This feature is especially valuable in applications where content needs to be translated or localized, broadening the reach and impact of your project.
 
@@ -58,7 +58,7 @@
 ![Screenshot 2023-10-20 004813](https://github.com/sho6000/Extractor/assets/57789899/9d46453f-0e3f-45e1-ae9e-def553f3e60a)
 ![Screenshot 2023-10-20 004813](https://github.com/sho6000/Extractor/assets/57789899/911a7548-4248-496c-aef1-ab13f9b7d8e3)
 
-
+---
 ### Azure App Service
 - Azure App Service serves as the hosting platform for the application's user interface. With this service, I can deploy my application in a convenient and scalable manner. It allows me to focus on the development of my application without the need to manage the underlying infrastructure. This simplifies the deployment process and ensures that the application is easily accessible to users via the Azure portal. Azure App Service provides a robust and reliable environment for your Streamlit-based application, making it available to a broad audience.
 
@@ -69,7 +69,7 @@
 - Below given is the Azure postal under App Service:
 
 ![Screenshot 2023-10-20 004919](https://github.com/sho6000/Extractor/assets/57789899/5543d46d-0074-4ff3-83df-622da778072d)
-
+---
 
 ## Python Package
 
@@ -101,8 +101,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run main_script.py
 ```
-
-4. Select the capture method (webcam or upload image) and follow the on-screen instructions to extract and translate text.
+---
 
 ## Steps to Use
 - First  we select any image or PDF to upload by clicking on the **Browse files** button.
