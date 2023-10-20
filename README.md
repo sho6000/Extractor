@@ -11,7 +11,7 @@
 ## Project Details
 
 - [Project Demo Link Here](https://extractor9000.azurewebsites.net/)
-- [Project Video Tutorial Link]()
+- [Project Video Tutorial Link](https://youtu.be/bao-gvTKyGc?si=9KZ_3fMeWG69SUF3)
 
 ## Azure Services Used
 
